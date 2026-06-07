@@ -1,0 +1,21 @@
+# Course 1 - Module Summary: The Data Analyst Ecosystem
+
+## 1. What is a Data Analyst Ecosystem?
+A data analyst ecosystem includes the infrastructure, software, tools, frameworks, and processes used to gather, clean, analyze, mine, and visualize data.  
+
+## 2. Data Categorization by Structure
+Based on how well-defined the structure of the data is, data can be categorized as:
+* **Structured Data:** Data which is well organized in formats that can be stored in databases.
+* **Semi-Structured Data:** Data which is partially organized and partially free form.
+* **Unstructured Data:** Data which cannot be organized conventionally into rows and columns.
+
+## 3. File Formats and Sources
+* **File Formats:** Data comes in a wide-ranging variety of file formats, such as delimited text files, spreadsheets, XML, PDF, and JSON, each with its own list of benefits and limitations of use.  
+* **Data Sources:** Data is extracted from multiple data sources, ranging from relational and non-relational databases to APIs, web services, data streams, social platforms, and sensor devices. 
+* **Data Repositories:** Once data is identified and gathered, it needs to be staged in a data repository so it can be prepared for analysis. The type, format, and sources of data influence the type of data repository used. 
+
+## 4. Languages for Data Professionals
+Data professionals need a host of languages to extract, prepare, and analyze data:  
+* **Querying Languages (e.g., SQL):** Used for accessing and manipulating data from databases. 
+* **Programming Languages (e.g., Python, R, Java):** Used for developing applications and controlling application behavior.
+* **Shell and Scripting Languages (e.g., Unix/Linux Shell, PowerShell):** Used for automating repetitive operational tasks.

@@ -1,21 +1,19 @@
-In this lesson, you have learned the following information: 
+# Module 1 Summary: Modern Data Ecosystem & Analytics Foundations
 
-A modern data ecosystem includes a network of interconnected and continually evolving entities that include: 
+## 1. Core Components of the Data Ecosystem
+* **Data Varieties:** Diverse formats, structures, and sources.
+* **Enterprise Environment:** Staging, cleaning, and optimizing raw data.
+* **End-Users:** Stakeholders, analysts, and programmers consuming data.
+* **Emerging Technologies:** Cloud Computing, Machine Learning, and Big Data continuously reshaping the field.
 
-Data that is available in a host of different formats, structure, and sources.
-Enterprise Data Environment in which raw data is staged so it can be organized, cleaned, and optimized for use by end-users.
-End-users such as business stakeholders, analysts, and programmers who consume data for various purposes.
-Emerging technologies such as Cloud Computing, Machine Learning, and Big Data, are continually reshaping the data ecosystem and the possibilities it offers. Data Engineers, Data Analysts, Data Scientists, Business Analysts, and Business Intelligence Analysts, all play a vital role in the ecosystem for deriving insights and business results from data. 
+## 2. Four Primary Types of Data Analysis
+* **Descriptive:** What happened?
+* **Diagnostic:** Why did it happen?
+* **Predictive:** What will happen next?
+* **Prescriptive:** What should be done next?
 
-Based on the goals and outcomes that need to be achieved, there are four primary types of Data Analysis: 
-
-Descriptive Analytics, that helps decode “What happened.” 
-Diagnostic Analytics, that helps us understand “Why it happened.” 
-Predictive Analytics, that analyzes historical data and trends to suggest “What will happen next.” 
-Prescriptive Analytics, that prescribes “What should be done next.” 
-The Data Analysis process involves:
-
-Developing an understanding of the problem and the desired outcome. 
-Setting a clear metric for evaluating outcomes. 
-Gathering, cleaning, analyzing, and mining data to interpret results. 
-Communicating the findings in ways that impact decision-making. 
+## 3. The Data Analysis Process
+1. Understand the problem and desired outcome.
+2. Establish clear metrics for evaluation.
+3. Gather, clean, analyze, and mine data.
+4. Communicate findings to drive decision-making.
